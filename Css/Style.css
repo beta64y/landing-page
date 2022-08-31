@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.header{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    height: 50rem;
+    background-size: cover; 
+}
+.headerfirstdiv{
+    background-color: #f8f9fa;
+    height: 4rem;
+    
+}
+.headerfirstdivlinks{
+    margin: 0 63px;
+    padding: 0 12px;
+
+}
+.headerfirstdivlinkone{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #000;
+    display: block;
+    float: left;
+    margin: 1.5rem 0 ;
+}
+.headerfirstdivlinktwo{
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    border-radius: 4px;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    float: right;
+    margin: 10px 0 ;
+    font-family: sans-serif;
+}
+.headerseconddivtextone{
+    font-size: 48px;
+    font-family: sans-serif;
+    color: #fff;
+    font-weight: 700;
+    line-height: 3.25rem;
+    margin-bottom: 2rem;
+
+}
+.headerseconddiv{   
+    text-align: center;
+    padding-top: 15rem;
+    margin: 0 23rem;
+}
+.headerseconddivinputtextone{
+    padding : 16px 20px;
+    border: 2px solid ;
+    border-radius: 7px;
+    display: block;
+    width: 70%;
+    float: left;    
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+
+}
+.headerseconddivlinkone{
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    border-radius: 4px;
+    padding: 1rem 1rem;
+    font-size: 1rem;
+    float: right;
+    font-family: sans-serif;
+}
+.iconsgriddiv{
+    height: 25rem;
+    background-color: #f8f9fa;
+
+}
+.commondivbox{
+    margin-top: 7rem;
+    text-align: center;
+    width: 25%;
+    margin-right: 6%;
+    display: block;
+    float: right;
+    
+}
+.commonbottomone{
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 25px;
+    color: #212529;
+    margin: 1rem 0 1rem 0;
+
+}
+.commonbottomtwo{
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";    font-size: 40px;
+    color: #7c757d;
+    font-size: 1rem;
+    font-style: italic;
+}
+.imageshowcase{
+    height: 80rem;
+}
+.image{
+
+    width:100%;
+    
+}
+.imageshowcasediv1{
+    float: right;
+    width: 50%;
+    height: auto;
+
+}
+.imageshowcasediv2{
+    float: left;
+    width: 50%;
+    height: auto;
+}
+.imageshowcasebottomdiv{
+    margin :160px 0; 
+    text-align: center;
+    width: 50%;
+    display:inline-block;
+    
+}
+.imageshowcasecommonbottomdiv{
+    margin: 0 2rem;
+
+}
